@@ -2,7 +2,7 @@
 sistema de gestão
 
 Eder Zerek
-Jose Lucas
-Luis Felipe Fchini - fez o banco
+Jose Lucas - fez o banco de dados
+Luis Felipe Fchini - fez o banco de dados
 Max Maul
 Sidney Cardoso
